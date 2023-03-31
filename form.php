@@ -21,7 +21,7 @@ També ha de demanar una ruta-->
         <option value="javascript">Java</option>
     </select>
     <br>
-    <input type="file" name="ruta" id="ruta" webkitdirectory mozdirectory directory>
+<!--    <input type="file" name="ruta" id="ruta" webkitdirectory mozdirectory directory> -->
     <br>
     <input type="text" name="ruta" placeholder="Ruta">
     <br>

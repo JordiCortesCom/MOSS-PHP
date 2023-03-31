@@ -33,11 +33,11 @@ if (isset($_POST['base'])) {
 $moss->setCommentString($_POST['comentari']);
 
 #print_r($moss->send());
-//header("Location: " . $moss->send());
+header("Location: " . $moss->send());
 
 
-$output = shell_exec('/usr/local/bin/python3 prova.py');
-echo "<pre>$output</pre>";
+//$output = shell_exec('/usr/local/bin/python3 prova.py');
+//echo "<pre>$output</pre>";
 
 
 ?>
