@@ -35,3 +35,7 @@ També ha de demanar una ruta-->
     <input type="submit" value="Enviar">
 </form>
 
+</br>
+</br>
+Exemple de ruta: ./codiDeProva/*.php
+
